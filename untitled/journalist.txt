@@ -1,0 +1,441 @@
+Ca-A Cancer Journal for Clinicians
+435.4
+99.0% 1/331 Oncology
+47455
+109
+94
+113.744
+88.192
+Wiley-Blackwell
+MMWR Recommendations and Reports
+152.5
+99.0% 1/275 Health (social science)
+2288
+15
+87
+37.543
+41.022
+Centers for Disease Control and Prevention (CDC)
+Nature Reviews Materials
+123.7
+99.0% 1/287 Materials Chemistry
+23868
+193
+96
+15.261
+36.691
+Springer Nature
+Chemical Reviews
+100.5
+99.0% 1/398 General Chemistry
+97295
+968
+96
+12.832
+20.847
+American Chemical Society
+Reviews of Modern Physics
+75.8
+99.0% 1/224 General Physics and Astronomy
+11906
+157
+92
+14.948
+21.938
+American Physical Society
+Nature Reviews Genetics
+73.5
+99.0% 1/381 Molecular Biology
+14560
+198
+94
+9.126
+28.619
+Springer Nature
+Nature Reviews Molecular Cell Biology
+73.4
+99.0% 1/274 Cell Biology
+17098
+233
+89
+9.767
+29.997
+Springer Nature
+The Lancet
+73.4
+99.0% 1/529 General Medicine
+122642
+1671
+80
+21.313
+14.554
+Elsevier
+Nature Energy
+71.2
+99.0% 1/216 Energy Engineering and Power Technology
+30740
+432
+88
+7.714
+19.635
+Springer Nature
+Nature Reviews Cancer
+70.4
+99.0% 1/198 Cancer Research
+17948
+255
+81
+9.869
+21.287
+Springer Nature
+MMWR. Surveillance summaries : Morbidity and mortality weekly report. Surveillance summaries / CDC
+68.4
+99.0% 2/275 Health (social science)
+4238
+62
+87
+23.427
+20.617
+Centers for Disease Control and Prevention (CDC)
+Chemical Society Reviews
+67.1
+99.0% 2/398 General Chemistry
+77458
+1154
+88
+8.282
+14.49
+Royal Society of Chemistry
+New England Journal of Medicine
+66.1
+99.0% 2/529 General Medicine
+152040
+2301
+84
+13.212
+18.291
+Massachusetts Medical Society
+Nature Materials
+63.3
+99.0% 1/585 Mechanical Engineering
+40970
+647
+92
+7.718
+14.862
+Springer Nature
+Nature Reviews Immunology
+62.9
+99.0% 1/200 Immunology
+15525
+247
+89
+8.845
+20.611
+Springer Nature
+Nature Nanotechnology
+59.4
+99.0% 1/670 Electrical and Electronic Engineering
+34443
+580
+90
+6.81
+15.555
+Springer Nature
+Cell
+58.7
+99.0% 1/197 General Biochemistry, Genetics and Molecular Biology
+100190
+1707
+96
+7.114
+24.698
+Elsevier
+Nature Photonics
+58.3
+99.0% 2/183 Atomic and Molecular Physics, and Optics
+25294
+434
+90
+7.931
+13.614
+Springer Nature
+National vital statistics reports : from the Centers for Disease Control and Prevention, National Ce...
+56.5
+99.0% 1/53 Life-span and Life-course Studies
+2484
+44
+84
+24.366
+29.81
+US Department of Health and Human Services
+Energy and Environmental Science
+56
+99.0% 1/120 Pollution
+63205
+1129
+96
+4.706
+13.024
+Royal Society of Chemistry
+Living Reviews in Relativity
+54.1
+99.0% 1/54 Physics and Astronomy (miscellaneous)
+1190
+22
+95
+6.561
+10.803
+Springer Nature
+IEEE Communications Surveys and Tutorials
+52.6
+99.0% 2/670 Electrical and Electronic Engineering
+24864
+473
+95
+12.157
+7.553
+IEEE
+Physics Reports
+52.4
+99.0% 2/224 General Physics and Astronomy
+10525
+201
+93
+9.773
+8.069
+Elsevier
+Nature
+51
+99.0% 1/111
+243894
+4786
+83
+8.82
+14.047
+Springer Nature
+The Lancet Oncology
+49.4
+99.0% 3/331 Oncology
+40064
+811
+82
+9.486
+15.65
+Elsevier
+Annual Review of Astronomy and Astrophysics
+48.7
+99.0% 1/92 Space and Planetary Science
+2923
+60
+88
+7.798
+12.954
+Annual Reviews Inc.
+Progress in Energy and Combustion Science
+48.3
+99.0% 1/281 General Chemical Engineering
+5317
+110
+96
+12.198
+8.477
+Elsevier
+Progress in Materials Science
+47.1
+99.0% 3/460 General Materials Science
+9556
+203
+99
+10.389
+8.137
+Elsevier
+Advances in Physics
+46.7
+99.0% 3/403 Condensed Matter Physics
+888
+19
+95
+7.363
+14.432
+Taylor & Francis
+Nature Medicine
+45.9
+99.0% 2/197 General Biochemistry, Genetics and Molecular Biology
+36274
+791
+90
+5.9
+15.812
+Springer Nature
+Science
+45.3
+98.0% 2/111
+217261
+4799
+81
+7.521
+13.11
+American Association for the Advancement of Science
+Nature Genetics
+45.2
+99.0% 2/324 Genetics
+33363
+738
+94
+6.001
+19.795
+Springer Nature
+The Lancet Neurology
+44.6
+99.0% 1/348 Neurology (clinical)
+16095
+361
+89
+10.251
+11.258
+Elsevier
+Nature Reviews Disease Primers
+42.2
+99.0% 3/529 General Medicine
+9616
+228
+76
+13.392
+12.268
+Springer Nature
+Annual Review of Biochemistry
+41.9
+99.0% 1/407 Biochemistry
+5621
+134
+97
+6.025
+17.387
+Annual Reviews Inc.
+Materials Science and Engineering: R: Reports
+41.6
+99.0% 2/585 Mechanical Engineering
+2164
+52
+96
+7.391
+6.95
+Elsevier
+Advanced Materials
+41.3
+99.0% 3/585 Mechanical Engineering
+219519
+5313
+93
+3.997
+10.571
+Wiley-Blackwell
+Progress in Polymer Science
+41.1
+99.0% 1/183 Organic Chemistry
+8801
+214
+93
+6.772
+6.21
+Elsevier
+Cancer Cell
+40.7
+99.0% 2/274 Cell Biology
+18962
+466
+95
+5.086
+11.909
+Elsevier
+Nature Reviews Neuroscience
+38.5
+99.0% 1/111 General Neuroscience
+11978
+311
+68
+8.312
+14.78
+Springer Nature
+Annual Review of Psychology
+38.2
+99.0% 1/204 General Psychology
+4016
+105
+98
+9.64
+10.232
+Annual Reviews Inc.
+Nature Chemistry
+38.2
+99.0% 2/281 General Chemical Engineering
+24010
+629
+93
+4.436
+9.927
+Springer Nature
+Cell Metabolism
+37.5
+99.0% 1/172 Physiology
+24547
+654
+97
+4.58
+10.81
+Elsevier
+Nature Reviews Clinical Oncology
+37.5
+98.0% 5/331 Oncology
+11930
+318
+72
+6.388
+9.882
+Springer Nature
+Immunity
+37.4
+99.0% 1/283 Infectious Diseases
+25482
+681
+96
+4.273
+11.977
+Elsevier
+The Lancet Diabetes and Endocrinology
+37.4
+99.0% 1/217 Endocrinology, Diabetes and Metabolism
+10960
+293
+96
+6.626
+9.337
+Elsevier
+Nature Physics
+37
+98.0% 3/224 General Physics and Astronomy
+24404
+660
+93
+4.857
+9.128
+Springer Nature
+Nature Reviews Chemistry
+36.4
+99.0% 3/281 General Chemical Engineering
+4145
+114
+86
+7.526
+15.61
+Springer Nature
+Nature Reviews Microbiology
+36.4
+99.0% 1/147 Microbiology
+12629
+347
+64
+7.967
+13.16
+Springer Nature
